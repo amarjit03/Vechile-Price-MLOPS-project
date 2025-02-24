@@ -149,3 +149,5 @@ amarjit3587
 
 
 mongodb+srv://amarjit3587:<db_password>@cluster0.u8jrl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://amarjit3587:9G5RP10454WkToYZ@cluster0.u8jrl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
